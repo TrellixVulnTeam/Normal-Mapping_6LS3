@@ -1,0 +1,3 @@
+/home/zhassulan/experiment/NormalMapping/build/CMakeFiles/edit_cache.dir
+/home/zhassulan/experiment/NormalMapping/build/CMakeFiles/rebuild_cache.dir
+/home/zhassulan/experiment/NormalMapping/build/CMakeFiles/main.dir
